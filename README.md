@@ -1,2 +1,2 @@
 # my_homework
-i put here my homeworks during my PhD course in TUMS!
+I put here my python homeworks during my PhD course in TUMS!
